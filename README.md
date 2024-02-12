@@ -1,6 +1,12 @@
 # hand-mouse
 The Hand Mouse project is a real-time hand gesture recognition system developed using the OpenCV library in Python. The system uses computer vision techniques to analyze the camera feed and detect hand gestures. When a specified gesture is made, the system performs actions such as moving the mouse cursor and clicking.
 
+# Image
+
+![hand-image](https://github.com/monkeydluppy/hand-mouse/blob/c81230edf1e5aca993f39254fc0f3051502c9eab/mouse.png)
+
+
+
 # how to use 
 
 clone this repo
